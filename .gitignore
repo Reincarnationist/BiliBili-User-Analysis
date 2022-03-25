@@ -2,3 +2,4 @@ config.py
 __pycache__
 test.py
 ip_pool.txt
+b_user_res.csv
