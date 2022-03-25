@@ -80,6 +80,7 @@ API信息及参数皆取自 https://github.com/SocialSisterYi/bilibili-API-colle
 ## 学校信息
 我先把做这个项目之前的猜测放在这里：都不用看就知道清华北大肯定是最多的，至于原因嘛懂得都懂。 结果也是不那么意外虽然第二不是但也很接近。我把Top 20 列出来
 
+- 有效数据：25873
 - 清华大学： 606
 - 上海交通大学：566
 - 北京大学：534
@@ -99,6 +100,39 @@ API信息及参数皆取自 https://github.com/SocialSisterYi/bilibili-API-colle
 - 中南大学:	197
 - 华南理工大学:	177
 - 北京航空航天大学:	176
-- 
+- Top 20：5990
+- 其他：19883
+
 ![image](https://user-images.githubusercontent.com/50432664/160091231-e8cff27b-34cb-49f7-a455-ac8ccc1c963f.png)
+
+## 粉丝数
+
+top 20
+
+![image](https://user-images.githubusercontent.com/50432664/160095675-87c0e97b-78a8-4431-9428-f2e3c81fe8a1.png)
+
+都是老熟人了， 元老用户中老番茄混的最好
+
+## 获赞数
+
+top 10
+
+![image](https://user-images.githubusercontent.com/50432664/160096528-8cbafde7-b2b3-4b1e-bb7e-a07b7cb7b7e5.png)
+
+## 视频播放量
+
+top 20
+
+![image](https://user-images.githubusercontent.com/50432664/160098229-31249efe-9b9c-4801-aa6c-c47447609556.png)
+
+私心推荐老菊的视频，成为未来科技的员工吧！
+
+## 充电人数
+
+top 10
+
+![image](https://user-images.githubusercontent.com/50432664/160098873-390c1eeb-c0b1-4919-abea-65b91a99e1be.png)
+
+个人见解，优质内容+粉丝粘度和充电人数正相关
+
 
